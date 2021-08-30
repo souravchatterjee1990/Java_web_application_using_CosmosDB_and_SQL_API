@@ -1,0 +1,8 @@
+com\microsoft\azure\cosmos\sample\controller\TodoItemController.class
+com\microsoft\azure\cosmos\sample\model\TodoItem.class
+com\microsoft\azure\cosmos\sample\dao\CosmosClientFactory.class
+com\microsoft\azure\cosmos\sample\dao\TodoDaoFactory.class
+com\microsoft\azure\cosmos\sample\ApiServlet.class
+com\microsoft\azure\cosmos\sample\dao\DocDbDao.class
+com\microsoft\azure\cosmos\sample\dao\TodoDao.class
+com\microsoft\azure\cosmos\sample\dao\MockDao.class
